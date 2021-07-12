@@ -20,7 +20,15 @@ RUN THE CODE
 2 . Paste the URL in the postman or web to see the respective results
 
     For example : http://127.0.0.1:5000/customer_object?customer_id=63&country_code=Peru&last_order_ts=2020-04-19 00:00:00+00:00&first_order_ts=2017-07-24 00:00:00+00:00&total_orders=20&segment_name=recency_segment
+    
  
+
+Screenshot 2021-07-13 at 12.09.51 AM![Screenshot 2021-07-13 at 12 09 51 AM](https://user-images.githubusercontent.com/12966797/125341577-5dd54680-e371-11eb-9be0-f333dd7a8d76.png)
+
+
+Screenshot 2021-07-13 at 12.31.54 AM![Screenshot 2021-07-13 at 12 31 54 AM](https://user-images.githubusercontent.com/12966797/125341904-cae8dc00-e371-11eb-8093-735848067bc6.png)
+
+
 #with docker
 
 1. Build the image
