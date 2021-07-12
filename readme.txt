@@ -11,6 +11,8 @@ Assignent
 
 5. I have not added any try and catch exceptional for handing the errors so you may end up seeing internal error or error code 500 when conditions will not satisfied.
 
+6. Written Unittest cases for the function which is calling the rest api.
+
 RUN THE CODE
 
 #without docker 
@@ -31,4 +33,10 @@ RUN THE CODE
   docker run -it heroapp python task.py
   
   and you will find docker id and run the URL http://127.0.0.1:5000
+
+
+
+
+###############################################################################################################################################################
+
 
