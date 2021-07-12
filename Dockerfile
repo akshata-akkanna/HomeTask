@@ -17,4 +17,5 @@ RUN pip3 install pyarrow==0.9.0
 EXPOSE 5000
 
 # execute the Flask app
-CMD python3 task.py
+CMD ["python3", "task.py"]
+
